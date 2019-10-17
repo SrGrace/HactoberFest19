@@ -4,9 +4,9 @@ A Open-Source Repo for HactoberFest-19
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![Hacktoberfest 2019](https://img.shields.io/badge/Hacktoberfest-2019-purple)
-![GitHub Forks](https://img.shields.io/github/forks/SrGrace/HacktoberFest19?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/SrGrace/HacktoberFest19?style=social)
-![GitHub Contributors](https://img.shields.io/github/contributors/SrGrace/HacktoberFest19?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/SrGrace/HactoberFest19?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SrGrace/HactoberFest19?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/SrGrace/HactoberFest19?style=social)
 
 
 ## How to contribute
