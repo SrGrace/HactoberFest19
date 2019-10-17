@@ -16,7 +16,7 @@ A Open-Source Repo for HactoberFest-19
 
 > Example:
 ```
-# This is my favorite code snippet because it has ties to the Golden Ratio.
+# Fibonacci algorithm
 
 def Fibonacci(n): 
     if n<0: 
